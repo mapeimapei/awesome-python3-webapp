@@ -1,6 +1,5 @@
 # awesome-python3-webapp
-使用廖雪峰的框架写的一个博客项目，包括博客、爬虫和宠物商店
-博客管理后台使用webpack + vue + element-ui 完成
+使用廖雪峰的框架写的一个博客项目，包括博客、爬虫和宠物商店。博客管理后台使用webpack + vue + element-ui 完成
 
 ```
 # 安装python版本：
