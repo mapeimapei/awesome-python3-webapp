@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="856eea03-9df3-4a78-b9b8-bb504f56eefd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YZtzIxgA1zCarubcowlDCa3SCG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="D:/学习资料/《Python从小白到大牛》源代码/代码/chapter24" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\awesome-python3-webapp\www" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="awesome-python3-webapp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/www" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/www/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="base_dao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="awesome-python3-webapp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/www/dao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/www/dao/base_dao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="awesome-python3-webapp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/www" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/www/spider.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spiderThreading" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="awesome-python3-webapp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/www" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/www/spiderThreading.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="awesome-python3-webapp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/www" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/www/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.base_dao" />
+        <item itemvalue="Python.spiderThreading" />
+        <item itemvalue="Python.spider" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="856eea03-9df3-4a78-b9b8-bb504f56eefd" name="Default Changelist" comment="" />
+      <created>1583162204690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583162204690</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="283" y="116" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583756732751">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="283" y="116" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1583756732751" />
+    <state width="901" height="466" key="DebuggerActiveHint" timestamp="1583499215714">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="901" height="466" key="DebuggerActiveHint/0.0.1600.860@0.0.1600.860" timestamp="1583499215714" />
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1585233332850">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1585233332850" />
+    <state width="1578" height="151" key="GridCell.Tab.0.bottom" timestamp="1585231982981">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="151" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1585231982981" />
+    <state width="1578" height="151" key="GridCell.Tab.0.center" timestamp="1585231982981">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="151" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1585231982981" />
+    <state width="1578" height="151" key="GridCell.Tab.0.left" timestamp="1585231982981">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="151" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1585231982981" />
+    <state width="1578" height="151" key="GridCell.Tab.0.right" timestamp="1585231982981">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="151" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1585231982981" />
+    <state width="1578" height="187" key="GridCell.Tab.1.bottom" timestamp="1585140952899">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="187" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1585140952899" />
+    <state width="1578" height="187" key="GridCell.Tab.1.center" timestamp="1585140952899">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="187" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1585140952899" />
+    <state width="1578" height="187" key="GridCell.Tab.1.left" timestamp="1585140952899">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="187" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1585140952899" />
+    <state width="1578" height="187" key="GridCell.Tab.1.right" timestamp="1585140952899">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1578" height="187" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1585140952899" />
+    <state x="94" y="105" key="SettingsEditor" timestamp="1583756441339">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="94" y="105" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1583756441339" />
+    <state x="71" y="41" width="1400" height="660" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1583674780610">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="71" y="41" width="1400" height="660" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1600.860@0.0.1600.860" timestamp="1583674780610" />
+    <state x="485" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1583163467723">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="485" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1583163467723" />
+    <state x="476" y="26" width="647" height="807" key="find.popup" timestamp="1585223890374">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="476" y="26" width="647" height="807" key="find.popup/0.0.1600.860@0.0.1600.860" timestamp="1585223890374" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/www/app.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/www/app.py</url>
+          <line>57</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/www/db/db_access.py</url>
+          <line>134</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/www/api_handlers.py</url>
+          <line>257</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/www/dao/cart_dao.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
