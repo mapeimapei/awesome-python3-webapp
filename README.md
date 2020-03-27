@@ -2,12 +2,12 @@
 使用廖雪峰的框架写的一个博客项目，包括博客，爬虫，宠物商店
 
 #开发依赖
-安装python版本：python 3.8.2
-安装依赖包：
-pip install aiohttp
-pip install jinja2
-pip install aiomysql
-pip install beautifulsoup4
+#安装python版本：python 3.8.2
+#安装依赖包：
+#pip install aiohttp
+#pip install jinja2
+#pip install aiomysql
+#pip install beautifulsoup4
 
 #数据库版本：
 mysql-installer-community-5.6.47.0
