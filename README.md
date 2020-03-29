@@ -34,7 +34,8 @@ QQ:9725029
 
 ```
 
-https://github.com/mapeimapei/awesome-python3-webapp
+Licensed under the [MIT license](https://github.com/viljamis/vue-design-system/blob/master/LICENSE).
+awesome-python3-webapp:https://github.com/mapeimapei/awesome-python3-webapp
 
 
 
