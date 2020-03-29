@@ -6,19 +6,19 @@ __author__ = 'Michael Liao'
 '''
 async web application.
 '''
-import logging;
+import time
+import json
+import os
+import asyncio
+from api_handlers import cookie2user, COOKIE_NAME
+from coroweb import add_routes, add_static, add_vue_static
+import orm
+from jinja2 import Environment, FileSystemLoader
+from aiohttp import web
+from datetime import datetime
+import logging
 
 logging.basicConfig(level=logging.INFO)
-
-import asyncio, os, json, time
-from datetime import datetime
-from aiohttp import web
-from jinja2 import Environment, FileSystemLoader
-
-import orm
-from coroweb import add_routes, add_static, add_vue_static
-
-from api_handlers import cookie2user, COOKIE_NAME
 
 
 # import config
@@ -35,7 +35,8 @@ def init_jinja2(app, **kw):
     )
     path = kw.get('path', None)
     if path is None:
-        path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'templates')
+        path = os.path.join(os.path.dirname(
+            os.path.abspath(__file__)), 'templates')
     logging.info('set jinja2 template path: %s' % path)
     env = Environment(loader=FileSystemLoader(path), **options)
     filters = kw.get('filters', None)
@@ -109,7 +110,8 @@ async def response_factory(app, handler):
                 resp.content_type = 'application/json;charset=utf-8'
                 return resp
             else:
-                resp = web.Response(body=app['__templating__'].get_template(template).render(**r).encode('utf-8'))
+                resp = web.Response(body=app['__templating__'].get_template(
+                    template).render(**r).encode('utf-8'))
                 resp.content_type = 'text/html;charset=utf-8'
                 return resp
         if isinstance(r, int) and r >= 100 and r < 600:

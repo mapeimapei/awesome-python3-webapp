@@ -1,7 +1,6 @@
 import urllib.request
 from bs4 import BeautifulSoup
-from datetime import datetime
-import asyncio, os, json, time ,uuid
+import time ,uuid
 import re
 
 def get_ire_content(url):

@@ -5,7 +5,6 @@ import time, uuid
 logging.basicConfig(level=logging.DEBUG)
 
 
-
 def update_single_data(obj):
     """  更新文章数据 """
     # 1 建立数据库连接
@@ -15,12 +14,12 @@ def update_single_data(obj):
                                  password='mapei123',
                                  db='awesome',
                                  charset='utf8')
-    affectedcount= 0
+    affectedcount = 0
     try:
         # 创建游标对象
         with connection.cursor() as cursor:
             # 3 执行sql操作
-            sql = 'update blogs set content = "{0}" WHERE content = "{1}"'.format(obj["content"],obj["url"])
+            sql = 'update blogs set content = "{0}" WHERE content = "{1}"'.format(obj["content"], obj["url"])
             affectedcount = cursor.execute(sql)
             logging.info("影响的数据行数{0}".format(affectedcount))
             # 4 提交数据库事务
@@ -33,8 +32,6 @@ def update_single_data(obj):
         # 6 关闭数据库连接
         connection.close()
         return affectedcount
-
-
 
 
 def get_spider_content_list():
@@ -69,11 +66,7 @@ def get_spider_content_list():
     return data
 
 
-
-
-
-
-def insert_single_list(list,pastsIdArr):
+def insert_single_list(list, pastsIdArr):
     """  插入文章数据 """
     # 1 建立数据库连接
     connection = pymysql.connect(host='127.0.0.1',
@@ -82,7 +75,7 @@ def insert_single_list(list,pastsIdArr):
                                  password='mapei123',
                                  db='awesome',
                                  charset='utf8')
-    affectedcount= 0
+    affectedcount = 0
     valStr = ""
     for item in list:
         if item["name"] not in pastsIdArr:
