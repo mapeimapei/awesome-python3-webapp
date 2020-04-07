@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="856eea03-9df3-4a78-b9b8-bb504f56eefd" name="Default Changelist" comment="" />
+    <list default="true" id="856eea03-9df3-4a78-b9b8-bb504f56eefd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/__head__.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/__head__.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/templates/admin.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/admin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/css/app.cd4c21dc0fa616961d88f857fd7717e0.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/css/app.cd4c21dc0fa616961d88f857fd7717e0.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/0.892f363a508207e5266d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/0.892f363a508207e5266d.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/1.fed0617b4d4a8ed2a576.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/1.fed0617b4d4a8ed2a576.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/2.4fe0c0653dbadc0b20eb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/2.4fe0c0653dbadc0b20eb.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/3.3d5fb0592065e94ea3d0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/3.3d5fb0592065e94ea3d0.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/4.17dd8cfc5a4b29eb40aa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/4.17dd8cfc5a4b29eb40aa.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/5.4715aec596ba3f9b337f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/5.4715aec596ba3f9b337f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/6.f42f6c5a4206d21df365.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/6.f42f6c5a4206d21df365.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/7.3cc75a28aa22ec3f774c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/7.3cc75a28aa22ec3f774c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/app.82ca5b2321dec580ddaf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/app.82ca5b2321dec580ddaf.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/manifest.a40593d9b9e596030f39.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/manifest.a40593d9b9e596030f39.js.map" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +53,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -185,22 +212,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1585233332850" />
-    <state width="1578" height="205" key="GridCell.Tab.0.bottom" timestamp="1586270524929">
+    <state width="1578" height="112" key="GridCell.Tab.0.bottom" timestamp="1586272929005">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1578" height="205" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586270524929" />
-    <state width="1578" height="205" key="GridCell.Tab.0.center" timestamp="1586270524928">
+    <state width="1578" height="112" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586272929005" />
+    <state width="1578" height="112" key="GridCell.Tab.0.center" timestamp="1586272929005">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1578" height="205" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1586270524928" />
-    <state width="1578" height="205" key="GridCell.Tab.0.left" timestamp="1586270524927">
+    <state width="1578" height="112" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1586272929005" />
+    <state width="1578" height="112" key="GridCell.Tab.0.left" timestamp="1586272929004">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1578" height="205" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1586270524927" />
-    <state width="1578" height="205" key="GridCell.Tab.0.right" timestamp="1586270524928">
+    <state width="1578" height="112" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1586272929004" />
+    <state width="1578" height="112" key="GridCell.Tab.0.right" timestamp="1586272929005">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1578" height="205" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1586270524928" />
+    <state width="1578" height="112" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1586272929005" />
     <state width="1578" height="187" key="GridCell.Tab.1.bottom" timestamp="1585140952899">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -237,16 +264,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/www/app.py</url>
-          <line>48</line>
-          <option name="timeStamp" value="11" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/www/app.py</url>
-          <line>57</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/www/db/db_access.py</url>
           <line>134</line>
