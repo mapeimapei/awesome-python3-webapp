@@ -147,9 +147,10 @@ def add_static(app):
 
 
 def add_vue_static(app):
-    path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'vuestatic')
-    app.router.add_static('/vuestatic/', path)
-    logging.info('add static %s => %s' % ('/vuestatic/', path))
+    pass
+    # path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'vuestatic')
+    # app.router.add_static('/vuestatic/', path)
+    # logging.info('add static %s => %s' % ('/vuestatic/', path))
 
 
 def add_route(app, fn):

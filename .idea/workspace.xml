@@ -3,30 +3,37 @@
   <component name="ChangeListManager">
     <list default="true" id="856eea03-9df3-4a78-b9b8-bb504f56eefd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/api_handlers.py" beforeDir="false" afterPath="$PROJECT_DIR$/www/api_handlers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/www/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/coroweb.py" beforeDir="false" afterPath="$PROJECT_DIR$/www/coroweb.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/templates/__head__.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/__head__.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/templates/admin.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/templates/admin.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/vuestatic/css/app.cd4c21dc0fa616961d88f857fd7717e0.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/vuestatic/css/app.cd4c21dc0fa616961d88f857fd7717e0.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/0.892f363a508207e5266d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/0.892f363a508207e5266d.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/1.fed0617b4d4a8ed2a576.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/1.fed0617b4d4a8ed2a576.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/2.4fe0c0653dbadc0b20eb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/2.4fe0c0653dbadc0b20eb.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/3.3d5fb0592065e94ea3d0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/3.3d5fb0592065e94ea3d0.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/4.17dd8cfc5a4b29eb40aa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/4.17dd8cfc5a4b29eb40aa.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/5.4715aec596ba3f9b337f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/5.4715aec596ba3f9b337f.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/6.f42f6c5a4206d21df365.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/6.f42f6c5a4206d21df365.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/7.3cc75a28aa22ec3f774c.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/7.3cc75a28aa22ec3f774c.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/app.82ca5b2321dec580ddaf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/app.82ca5b2321dec580ddaf.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/manifest.a40593d9b9e596030f39.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/manifest.a40593d9b9e596030f39.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/css/app.9579d9edc686c6db03fbe781332bfd3e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/css/app.9579d9edc686c6db03fbe781332bfd3e.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/fonts/element-icons.535877f.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/fonts/element-icons.732389d.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/img/mountain2.f9e4594.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/0.17f071bc04bb2a68bfcb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/0.17f071bc04bb2a68bfcb.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/1.715edfee00c2ad764a21.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/1.715edfee00c2ad764a21.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/2.24712287724789c7c924.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/2.24712287724789c7c924.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/3.659d6c2b459c52b2287f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/3.659d6c2b459c52b2287f.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/4.8bf7f732bc47f0b75ee7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/4.8bf7f732bc47f0b75ee7.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/5.68a9f53b7d229f35b1ae.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/5.68a9f53b7d229f35b1ae.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/6.3dfc100aa33dd153047d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/6.3dfc100aa33dd153047d.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/7.3fb7a48efe42aa80e632.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/7.3fb7a48efe42aa80e632.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/app.6c8f623eb3246c379c35.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/app.6c8f623eb3246c379c35.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/manifest.abbc093135ef59efebc9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/vuestatic/js/manifest.abbc093135ef59efebc9.js.map" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,12 +58,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nfv" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalResources" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -208,26 +216,26 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="901" height="466" key="DebuggerActiveHint/0.0.1600.860@0.0.1600.860" timestamp="1583499215714" />
-    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1585233332850">
+    <state x="580" y="184" key="FileChooserDialogImpl" timestamp="1588295520421">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1585233332850" />
-    <state width="1578" height="112" key="GridCell.Tab.0.bottom" timestamp="1586272929005">
+    <state x="580" y="184" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1588295520421" />
+    <state width="1578" height="101" key="GridCell.Tab.0.bottom" timestamp="1588261481481">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1578" height="112" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1586272929005" />
-    <state width="1578" height="112" key="GridCell.Tab.0.center" timestamp="1586272929005">
+    <state width="1578" height="101" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1588261481481" />
+    <state width="1578" height="101" key="GridCell.Tab.0.center" timestamp="1588261481481">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1578" height="112" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1586272929005" />
-    <state width="1578" height="112" key="GridCell.Tab.0.left" timestamp="1586272929004">
+    <state width="1578" height="101" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1588261481481" />
+    <state width="1578" height="101" key="GridCell.Tab.0.left" timestamp="1588261481481">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1578" height="112" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1586272929004" />
-    <state width="1578" height="112" key="GridCell.Tab.0.right" timestamp="1586272929005">
+    <state width="1578" height="101" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1588261481481" />
+    <state width="1578" height="101" key="GridCell.Tab.0.right" timestamp="1588261481481">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1578" height="112" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1586272929005" />
+    <state width="1578" height="101" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1588261481481" />
     <state width="1578" height="187" key="GridCell.Tab.1.bottom" timestamp="1585140952899">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -244,10 +252,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1578" height="187" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1585140952899" />
-    <state x="94" y="105" key="SettingsEditor" timestamp="1583756441339">
+    <state x="94" y="105" key="SettingsEditor" timestamp="1588256880709">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="94" y="105" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1583756441339" />
+    <state x="94" y="105" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1588256880709" />
+    <state x="521" y="160" width="540" height="524" key="StructurePopup" timestamp="1588169112141">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="521" y="160" width="540" height="524" key="StructurePopup/0.0.1600.860@0.0.1600.860" timestamp="1588169112141" />
     <state x="71" y="41" width="1400" height="660" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1583674780610">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -256,6 +268,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="485" y="252" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1583163467723" />
+    <state x="39" y="164" key="com.intellij.javaee.MapExternalResourceDialog" timestamp="1588256879392">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="39" y="164" key="com.intellij.javaee.MapExternalResourceDialog/0.0.1600.860@0.0.1600.860" timestamp="1588256879392" />
     <state x="476" y="26" width="647" height="807" key="find.popup" timestamp="1585223890374">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -271,7 +287,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/www/api_handlers.py</url>
-          <line>257</line>
+          <line>260</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">

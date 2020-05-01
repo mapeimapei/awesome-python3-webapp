@@ -153,7 +153,7 @@ async def init():
     add_routes(app, 'api_handlers')
     add_routes(app, 'dao.handlers')
     add_static(app)
-    add_vue_static(app)
+    #add_vue_static(app)
     app_runner = web.AppRunner(app)
     await app_runner.setup()
     srv = await loop.create_server(app_runner.server, '127.0.0.1', 9000)
